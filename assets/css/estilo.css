@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, 'Verdana', sans-serif;
+}
+
+.barra {
+    background-color: #464647;
+}
+
+
+.navbar-brand > h6 {
+  font-size: 18px;
+}
+
+.navbar-nav > .nav-item > .nav-link > h6 {
+  font-size: 14px;
+}
+
+.navbar-nav > .nav-item:nth-child(5) > .nav-link > h6 {
+  color: rgb(11, 182, 11);
+}
+
+footer {
+  font-size: 12px;
+  background-color: #485479;
+  color: white;
+  height: 50%;
+}
